@@ -1,0 +1,254 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.739459,
+        "lat": -7.295473,
+        "name": "al falah barat",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.739459, -7.295473, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.73918,
+        "lat": -7.295473,
+        "name": "bungkul barat",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.73918, -7.291488, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.73918,
+        "lat": -7.291481,
+        "name": "bungkul timur",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.738874, -7.291481, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.737456,
+        "lat": -7.292141,
+        "name": "ciliwung 2 selatan",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737456, -7.292141, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.737504,
+        "lat": -7.29229,
+        "name": "ciliwung 2 utara",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737504, -7.29229, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.736966,
+        "lat": -7.292343,
+        "name": "ciliwung selatan",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.736966, -7.292343, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.737014,
+        "lat": -7.292445,
+        "name": "ciliwung utara",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737014, -7.292445, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.738863,
+        "lat": -7.289636,
+        "name": "darmo bengawan 2 selatan",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.738863, -7.289636, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.739167,
+        "lat": -7.289925,
+        "name": "darmo bengawan barat",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.739167, -7.289925, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.739198,
+        "lat": -7.289677,
+        "name": "darmo bengawan selatan",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.739198, -7.289677, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.738843,
+        "lat": -7.289888,
+        "name": "darmo bengawan timur",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.738843, -7.289888, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.739165,
+        "lat": -7.289923,
+        "name": "darmo bengawan utara",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.739165, -7.289923, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lng": 112.737344,
+        "lat": -7.291977,
+        "name": "diponegoro 2 barat",
+        "icon": "place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737344, -7.291977, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro 2 timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.736994, -7.292138, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro 3 barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737724, -7.292871, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro 3 timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737421, -7.293014, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737473, -7.292328, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro kbs barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.738867, -7.29556, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro kbs timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.738735, -7.295622, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.737158, -7.292472, 0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "taman mayangkara timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.739063, -7.295371, 0]
+      }
+    }
+  ]
+}
