@@ -4,6 +4,104 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "bungkul barat",
+        "heading": -91.92038005185368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7391796805865,
+          -7.291488093796739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bungkul timur",
+        "heading": 89.41189061146288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7388744218232,
+          -7.291480589455327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "al falah barat",
+        "heading": -92.8542099693753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7394582301015,
+          -7.295471673160455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "taman mayangkara timur",
+        "heading": 112.7756271362201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7390633361557,
+          -7.295370964232116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "darmo bengawan timur",
+        "heading": 91.81177865401723
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7387940804801,
+          -7.289887284359766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ciliwung selatan",
+        "heading": 148.4482745418972
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7369659741152,
+          -7.292343374900362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diponegoro timur",
+        "heading": 63.30365395252697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7371579420964,
+          -7.292472191503046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "diponegoro barat",
         "heading": -118.8957278
       },
